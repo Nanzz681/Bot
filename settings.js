@@ -21,12 +21,12 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285892928715'] //ur owner number
-global.ownernomer = "6285702642230" //ur owner number2
-global.ownername = "DANZ BOT OWNER" //ur owner name
-global.ytname = "YT: lom ada" //ur yt chanel name
-global.socialm = "GitHub: AhmadDaniWn" //ur github or insta name
-global.location = "Lumajang, Jatim, Indonesia" //ur location
+global.owner = ['6282140059454'] //ur owner number
+global.ownernomer = "6282140059454" //ur owner number2
+global.ownername = "NanzzModz" //ur owner name
+global.ytname = "?" //ur yt chanel name
+global.socialm = "?" //ur github or insta name
+global.location = "?" //ur location
 
 //Server crete panel egg biasa
 global.domain = 'https://kiipanel.kimzz-hosting.tech' // Isi Domain Lu jangan kasih tanda / di akhir link
@@ -115,19 +115,19 @@ global.rpg = {
 }
 
 //new
-global.botname = "Danz Botz⚡"
-global.ownernumber = '6285892928715'
-global.ownername = 'Danzz Owner'
-global.ownerNumber = ["6285892928715@s.whatsapp.net"]
+global.botname = "NanzzBotz"
+global.ownernumber = '6282140059454'
+global.ownername = 'NanzzModz'
+global.ownerNumber = ["6282140059454@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
-global.wagc = "https://chat.whatsapp.com/HmTovMXPjeM0A13xiXqent"
+global.wagc = "."
 global.themeemoji = '🪀'
-global.wm = "Danz Bot Inc."
+global.wm = "Nanzz"
 global.botscript = 'Dah gede nyari sc 🗿🖕' //script link
-global.packname = "Sticker By"
-global.author = "| Danz X Nano |\n\n"
-global.creator = "6285892928715@s.whatsapp.net"
+global.packname = "."
+global.author = "Nanzz"
+global.creator = "6282140059454@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
